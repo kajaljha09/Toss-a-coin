@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-image: url("images/bg.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family:fantasy;
+    
+}
+button{
+    
+    background-color: white;
+    border: none;
+    padding-bottom: 0px;
+    margin:10px 0px 0px 10px
+
+}
