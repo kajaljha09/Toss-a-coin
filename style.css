@@ -16,3 +16,8 @@ button{
     margin:10px 0px 0px 10px
 
 }
+@media (max-width:800px){
+    body{
+        background-image: none;
+    }
+}
